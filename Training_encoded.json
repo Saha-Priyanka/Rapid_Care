@@ -1,0 +1,174 @@
+[
+ {
+   "prognosis": "AIDS",
+   "encoded": 0
+ },
+ {
+   "prognosis": "Acne",
+   "encoded": 1
+ },
+ {
+   "prognosis": "Alcoholic hepatitis",
+   "encoded": 2
+ },
+ {
+   "prognosis": "Allergy",
+   "encoded": 3
+ },
+ {
+   "prognosis": "Arthritis",
+   "encoded": 4
+ },
+ {
+   "prognosis": "Bronchial Asthma",
+   "encoded": 5
+ },
+ {
+   "prognosis": "Cervical spondylosis",
+   "encoded": 6
+ },
+ {
+   "prognosis": "Chicken pox",
+   "encoded": 7
+ },
+ {
+   "prognosis": "Chronic cholestasis",
+   "encoded": 8
+ },
+ {
+   "prognosis": "Common Cold",
+   "encoded": 9
+ },
+ {
+   "prognosis": "Covid",
+   "encoded": 10
+ },
+ {
+   "prognosis": "Dengue",
+   "encoded": 11
+ },
+ {
+   "prognosis": "Diabetes ",
+   "encoded": 12
+ },
+ {
+   "prognosis": "Dimorphic hemorrhoids(piles)",
+   "encoded": 13
+ },
+ {
+   "prognosis": "Drug Reaction",
+   "encoded": 14
+ },
+ {
+   "prognosis": "Fungal infection",
+   "encoded": 15
+ },
+ {
+   "prognosis": "GERD",
+   "encoded": 16
+ },
+ {
+   "prognosis": "Gastroenteritis",
+   "encoded": 17
+ },
+ {
+   "prognosis": "Heart attack",
+   "encoded": 18
+ },
+ {
+   "prognosis": "Hepatitis A",
+   "encoded": 19
+ },
+ {
+   "prognosis": "Hepatitis B",
+   "encoded": 20
+ },
+ {
+   "prognosis": "Hepatitis C",
+   "encoded": 21
+ },
+ {
+   "prognosis": "Hepatitis D",
+   "encoded": 22
+ },
+ {
+   "prognosis": "Hepatitis E",
+   "encoded": 23
+ },
+ {
+   "prognosis": "Hypertension ",
+   "encoded": 24
+ },
+ {
+   "prognosis": "Hyperthyroidism",
+   "encoded": 25
+ },
+ {
+   "prognosis": "Hypoglycemia",
+   "encoded": 26
+ },
+ {
+   "prognosis": "Hypothyroidism",
+   "encoded": 27
+ },
+ {
+   "prognosis": "Impetigo",
+   "encoded": 28
+ },
+ {
+   "prognosis": "Jaundice",
+   "encoded": 29
+ },
+ {
+   "prognosis": "Malaria",
+   "encoded": 30
+ },
+ {
+   "prognosis": "Migraine",
+   "encoded": 31
+ },
+ {
+   "prognosis": "Osteoarthritis",
+   "encoded": 32
+ },
+ {
+   "prognosis": "Paralysis (brain hemorrhage)",
+   "encoded": 33
+ },
+ {
+   "prognosis": "Paralysis (brain hemorrhageH",
+   "encoded": 34
+ },
+ {
+   "prognosis": "Paroxysmal Positional Vertigo",
+   "encoded": 35
+ },
+ {
+   "prognosis": "Peptic ulcer disease",
+   "encoded": 36
+ },
+ {
+   "prognosis": "Pneumonia",
+   "encoded": 37
+ },
+ {
+   "prognosis": "Psoriasis",
+   "encoded": 38
+ },
+ {
+   "prognosis": "Tuberculosis",
+   "encoded": 39
+ },
+ {
+   "prognosis": "Typhoid",
+   "encoded": 40
+ },
+ {
+   "prognosis": "Urinary tract infection",
+   "encoded": 41
+ },
+ {
+   "prognosis": "Varicose veins",
+   "encoded": 42
+ }
+]

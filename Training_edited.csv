@@ -1,0 +1,135 @@
+Label(without _),label,label(capitalize)
+abdominal pain,abdominal_pain,Abdominal Pain
+abnormal menstruation,abnormal_menstruation,Abnormal Menstruation
+acidity,acidity,Acidity
+acute liver failure,acute_liver_failure,Acute Liver Failure
+altered sensorium,altered_sensorium,Altered Sensorium
+anxiety,anxiety,Anxiety
+back pain,back_pain,Back Pain
+belly pain,belly_pain,Belly Pain
+blackheads,blackheads,Blackheads
+bladder discomfort,bladder_discomfort,Bladder Discomfort
+blister,blister,Blister
+blood in sputum,blood_in_sputum,Blood In Sputum
+bloody stool,bloody_stool,Bloody Stool
+blurred and distorted vision,blurred_and_distorted_vision,Blurred And Distorted Vision
+breathlessness,breathlessness,Breathlessness
+brittle nails,brittle_nails,Brittle Nails
+bruising,bruising,Bruising
+burning micturition,burning_micturition,Burning Micturition
+chest pain,chest_pain,Chest Pain
+chills,chills,Chills
+cold hands and feet,cold_hands_and_feet,Cold Hands And Feet
+coma,coma,Coma
+congestion,congestion,Congestion
+constipation,constipation,Constipation
+continuous feel of urine,continuous_feel_of_urine,Continuous Feel Of Urine
+continuous sneezing,continuous_sneezing,Continuous Sneezing
+cough,cough,Cough
+cramps,cramps,Cramps
+dark urine,dark_urine,Dark Urine
+dehydration,dehydration,Dehydration
+depression,depression,Depression
+diarrhoea,diarrhoea,Diarrhoea
+dyschromic patches,dyschromic_patches,Dyschromic Patches
+distention of abdomen,distention_of_abdomen,Distention Of Abdomen
+dizziness,dizziness,Dizziness
+drying and tingling lips,drying_and_tingling_lips,Drying And Tingling Lips
+enlarged thyroid,enlarged_thyroid,Enlarged Thyroid
+excessive hunger,excessive_hunger,Excessive Hunger
+extra marital contacts,extra_marital_contacts,Extra Marital Contacts
+family history,family_history,Family History
+fast heart rate,fast_heart_rate,Fast Heart Rate
+fatigue,fatigue,Fatigue
+fluid overload.1,fluid_overload.1,Fluid Overload.1
+foul smell of urine,foul_smell_of urine,Foul Smell Of Urine
+headache,headache,Headache
+high fever,high_fever,High Fever
+hip joint pain,hip_joint_pain,Hip Joint Pain
+history of alcohol consumption,history_of_alcohol_consumption,History Of Alcohol Consumption
+increased appetite,increased_appetite,Increased Appetite
+indigestion,indigestion,Indigestion
+inflammatory nails,inflammatory_nails,Inflammatory Nails
+internal itching,internal_itching,Internal Itching
+irregular sugar level,irregular_sugar_level,Irregular Sugar Level
+irritability,irritability,Irritability
+irritation in anus,irritation_in_anus,Irritation In Anus
+itching,itching,Itching
+joint pain,joint_pain,Joint Pain
+knee pain,knee_pain,Knee Pain
+lack of concentration,lack_of_concentration,Lack Of Concentration
+lethargy,lethargy,Lethargy
+loss of appetite,loss_of_appetite,Loss Of Appetite
+loss of balance,loss_of_balance,Loss Of Balance
+loss of smell,loss_of_smell,Loss Of Smell
+loss of taste,loss_of_taste,Loss Of Taste
+malaise,malaise,Malaise
+mild fever,mild_fever,Mild Fever
+mood swings,mood_swings,Mood Swings
+movement stiffness,movement_stiffness,Movement Stiffness
+mucoid sputum,mucoid_sputum,Mucoid Sputum
+muscle pain,muscle_pain,Muscle Pain
+muscle wasting,muscle_wasting,Muscle Wasting
+muscle weakness,muscle_weakness,Muscle Weakness
+nausea,nausea,Nausea
+neck pain,neck_pain,Neck Pain
+nodal skin eruptions,nodal_skin_eruptions,Nodal Skin Eruptions
+obesity,obesity,Obesity
+pain behind the eyes,pain_behind_the_eyes,Pain Behind The Eyes
+pain during bowel movements,pain_during_bowel_movements,Pain During Bowel Movements
+pain in anal region,pain_in_anal_region,Pain In Anal Region
+painful walking,painful_walking,Painful Walking
+palpitations,palpitations,Palpitations
+passage of gases,passage_of_gases,Passage Of Gases
+patches in throat,patches_in_throat,Patches In Throat
+phlegm,phlegm,Phlegm
+polyuria,polyuria,Polyuria
+prominent veins on calf,prominent_veins_on_calf,Prominent Veins On Calf
+puffy face and eyes,puffy_face_and_eyes,Puffy Face And Eyes
+pus filled pimples,pus_filled_pimples,Pus Filled Pimples
+receiving blood transfusion,receiving_blood_transfusion,Receiving Blood Transfusion
+receiving unsterile injections,receiving_unsterile_injections,Receiving Unsterile Injections
+red sore around nose,red_sore_around_nose,Red Sore Around Nose
+red spots over body,red_spots_over_body,Red Spots Over Body
+redness of eyes,redness_of_eyes,Redness Of Eyes
+restlessness,restlessness,Restlessness
+runny nose,runny_nose,Runny Nose
+rusty sputum,rusty_sputum,Rusty Sputum
+scurrying,scurrying,Scurrying
+shivering,shivering,Shivering
+silver like dusting,silver_like_dusting,Silver Like Dusting
+sinus pressure,sinus_pressure,Sinus Pressure
+skin peeling,skin_peeling,Skin Peeling
+skin rash,skin_rash,Skin Rash
+slurred speech,slurred_speech,Slurred Speech
+small dents in nails,small_dents_in_nails,Small Dents In Nails
+spinning movements,spinning_movements,Spinning Movements
+spotting urination,spotting_urination,Spotting Urination
+stiff neck,stiff_neck,Stiff Neck
+stomach bleeding,stomach_bleeding,Stomach Bleeding
+stomach pain,stomach_pain,Stomach Pain
+sunken eyes,sunken_eyes,Sunken Eyes
+sweating,sweating,Sweating
+swelled lymph nodes,swelled_lymph_nodes,Swelled Lymph Nodes
+swelling joints,swelling_joints,Swelling Joints
+swelling of stomach,swelling_of_stomach,Swelling Of Stomach
+swollen blood vessels,swollen_blood_vessels,Swollen Blood Vessels
+swollen extremities,swollen_extremities,Swollen Extremities
+swollen legs,swollen_legs,Swollen Legs
+throat irritation,throat_irritation,Throat Irritation
+tiredness,tiredness,Tiredness
+toxic look (typhus),toxic_look_(typhus),Toxic Look (Typhus)
+ulcers on tongue,ulcers_on_tongue,Ulcers On Tongue
+unsteadiness,unsteadiness,Unsteadiness
+visual disturbances,visual_disturbances,Visual Disturbances
+vomiting,vomiting,Vomiting
+watering from eyes,watering_from_eyes,Watering From Eyes
+weakness in limbs,weakness_in_limbs,Weakness In Limbs
+weakness of one body side,weakness_of_one_body_side,Weakness Of One Body Side
+weight gain,weight_gain,Weight Gain
+weight loss,weight_loss,Weight Loss
+yellow crust ooze,yellow_crust_ooze,Yellow Crust Ooze
+yellow urine,yellow_urine,Yellow Urine
+yellowing of eyes,yellowing_of_eyes,Yellowing Of Eyes
+yellowish skin,yellowish_skin,Yellowish Skin
+prognosis,prognosis,Prognosis
